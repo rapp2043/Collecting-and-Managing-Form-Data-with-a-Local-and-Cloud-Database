@@ -1,7 +1,7 @@
 # Collecting-and-Managing-Form-Data-with-a-Local-and-Cloud-Database
 This project demonstrates how to effectively collect and manage form data by connecting a Google Form to a database, storing the data both locally (on MySQL Workbench) and in a cloud environment (freesqldatabase.com). This approach ensures that data is accessible, manageable, and synchronized without incurring hosting costs.
 
-![test drawio (1)](https://github.com/user-attachments/assets/1c9d85ef-b0ff-4a9d-88e1-b37b135d277a)
+![test drawio (2)](https://github.com/user-attachments/assets/b1d03be9-b75f-4c2c-8a12-940eda89a068)
 
 ## Project Overview
 This project demonstrates how I effectively (and inexpensively) collected and managed form data by connecting a Google Form to a database, storing the data both locally (on MySQL Workbench) and in a cloud environment (freesqldatabase.com/Google Forms). This approach ensures that data is accessible, manageable, and synchronized without incurring hosting costs.
