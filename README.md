@@ -10,11 +10,6 @@ This project demonstrates how I effectively (and inexpensively) collected and ma
 A local nonprofit organization is planning a series of community workshops and needs a simple, cost-effective way to collect and manage participant registrations. They want to avoid expensive hosting solutions and need a system that allows them to store and access registration data both locally and in the cloud.
 
 ## Features
-## Scenario: **Community Event Registration System**  
-
-A local nonprofit organization is planning a series of community workshops and needs a simple, cost-effective way to collect and manage participant registrations. They want to avoid expensive hosting solutions and need a system that allows them to store and access registration data both locally and in the cloud.
-
-### **How This Project Helps:**  
 1. **Google Forms for Easy Registration**  
    - Attendees sign up using a simple Google Form, reducing friction in the registration process.  
 
