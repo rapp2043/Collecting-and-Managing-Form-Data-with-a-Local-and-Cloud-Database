@@ -146,7 +146,6 @@ function submitToMySQL(e) {
 - `README.md` – Documentation for the project.
 - `schema.sql` – SQL script for creating the database structure.
 - `sync_google_sheets.js` – Google Apps Script for syncing data to the MySQL database.
-- `local_connection_config.txt` – Instructions on how to connect MySQL Workbench locally.
 
 ## Future Enhancements
 - Automate the data sync process via Google Sheets Triggers.
